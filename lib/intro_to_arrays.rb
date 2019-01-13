@@ -13,4 +13,9 @@ end
 def last_element(arr)
   return arr[-1]
 end
-def first_element_with
+def first_element_with_array_methods(arr)
+  return arr.shift
+end
+def last_element_with_array_methods(arr)
+  return arr.pop
+end

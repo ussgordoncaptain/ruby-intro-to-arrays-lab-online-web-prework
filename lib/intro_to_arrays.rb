@@ -13,4 +13,4 @@ end
 def last_element(arr)
   return arr[-1]
 end
-def 
+def first_element_with
